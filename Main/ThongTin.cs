@@ -15,7 +15,6 @@ namespace Main
         public ThongTin()
         {
             InitializeComponent();
-            this.TopMost = true;
         }
 
         private bool dragging = false; // cho biet co dang move hay k
