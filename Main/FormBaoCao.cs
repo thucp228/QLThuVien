@@ -15,6 +15,7 @@ namespace Main
         public FormBaoCao()
         {
             InitializeComponent();
+            this.TopMost = true;
         }
 
         private void btnBCMuonSach_Click(object sender, EventArgs e)

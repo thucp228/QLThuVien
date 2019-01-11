@@ -70,3 +70,12 @@ C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryM
 C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\THUCP\Documents\GitHub\QLThuVien\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\THUCP\Documents\GitHub\QLThuVien\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\THUCP\Documents\GitHub\QLThuVien\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\THUCP\Documents\GitHub\QLThuVien\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\THUCP\Documents\GitHub\QLThuVien\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\THUCP\Documents\GitHub\QLThuVien\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\THUCP\Documents\GitHub\QLThuVien\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\THUCP\Documents\GitHub\QLThuVien\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\THUCP\Documents\GitHub\QLThuVien\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

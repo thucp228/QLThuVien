@@ -90,3 +90,14 @@ C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryM
 C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\THUCP\Documents\GitHub\QLThuVien\BusinessLayer\obj\Debug\BusinessLayer.pdb

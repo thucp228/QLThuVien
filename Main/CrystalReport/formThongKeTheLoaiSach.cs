@@ -22,7 +22,7 @@ namespace Main.CrystalReport
         {
             SqlConnection conn = new SqlConnection("Data Source=DELL3542\\SQLEXPRESS;Initial Catalog=QLTHUVIEN;Integrated Security=True");
             DataTable dt = new DataTable();
-            SqlCommand cmd = new SqlCommand("BCSSTheLoaiSach", conn);
+            SqlCommand cmd = new SqlCommand("BCMuonSach", conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.Add("@Thang", SqlDbType.Int);

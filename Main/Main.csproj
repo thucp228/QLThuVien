@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Dakirby309-Windows-8-Metro-Folders-OS-Libraries-alt-Metro.ico</ApplicationIcon>
+    <ApplicationIcon>Resources\Dakirby309-Windows-8-Metro-Folders-OS-Libraries-alt-Metro.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
@@ -385,7 +385,7 @@
     <None Include="Resources\edit-user-icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Dakirby309-Windows-8-Metro-Folders-OS-Libraries-alt-Metro.ico" />
+    <Content Include="Resources\Dakirby309-Windows-8-Metro-Folders-OS-Libraries-alt-Metro.ico" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
