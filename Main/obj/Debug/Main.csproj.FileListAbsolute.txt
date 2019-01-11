@@ -1,0 +1,351 @@
+D:\VS2013\LibraryManagement\Main\bin\Debug\Main.exe.config
+D:\VS2013\LibraryManagement\Main\bin\Debug\Main.exe
+D:\VS2013\LibraryManagement\Main\bin\Debug\Main.pdb
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.Form1.resources
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.exe
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.pdb
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\VS2013\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.Form1.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.Form1.resources
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.Form1.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.Form1.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.ThongTin.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.Form1.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.ThongTin.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\RdlCompile.cache
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\Main\obj\Debug\RdlCompile.compiled
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.ThongTin.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\RdlCompile.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\Main\obj\Debug\RdlCompile.compiled
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.ThongTin.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\RdlCompile.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\RdlCompile.compiled
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\Main\obj\Debug\Main.LibraryManagement.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.LibraryManagement.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.ThongTin.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\RdlCompile.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\Main\obj\Debug\RdlCompile.compiled
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.LibraryManagement.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.ThongTin.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\RdlCompile.cache
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\Main\obj\Debug\RdlCompile.compiled
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.LibraryManagement.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.ThongTin.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\RdlCompile.cache
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\Main\obj\Debug\RdlCompile.compiled
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.LibraryManagement.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.ThongTin.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\RdlCompile.cache
+C:\Users\Phuc\Desktop\QLTV\LibraryManagement\Main\obj\Debug\RdlCompile.compiled
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\Main.exe
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\BusinessLayer.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\DataAccessLayer.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\ValueObject.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\FlashControlV71.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\stdole.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\BusinessLayer.pdb
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\DataAccessLayer.pdb
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\ValueObject.pdb
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.BaoCaoMuonSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.BaoCaoTraSachTre.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.BCMuonSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.CaiDat.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.CrystalReport.formBCLuocSuMuonTheLoaiSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.CrystalReport.formBCMuonSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.CrystalReport.formBCTKSachDangDuocMuon.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.CrystalReport.formBCTTMuonTLSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.CrystalReport.formThongKeTheLoaiSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.FormBaoCao.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.LibraryManagement.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.LapThe.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.Login.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.MuonSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.NhanSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.ThongTin.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.TienPhat.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.TimSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.TimTV.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.TraSach.resources
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.exe
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.pdb
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\Main.exe.config
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\bin\Debug\Main.pdb
+C:\Users\THUCP\Documents\Visual Studio 2017\Projects\QLTV_CrystalReport\LibraryManagement\Main\obj\Debug\Main.csproj.CopyComplete
